@@ -1,0 +1,37 @@
+EXERCISES
+
+1. What data types do each of these values represent?
+
+- "A Clockwork Orange" - string
+- 42 - integer
+- 09/02/1945 - date 
+- 98.7 - float
+- $15.99 - currency
+
+2. Explain when a database would be used. Explain when a text file would be used.
+
+A: A database would be used to store, create, and manipulate data without using up memory. A text fie would be used for storing something that you want to be able to read directly, and that doesn't take up too much memory. 
+
+3. Describe one difference between SQL and other programming languages.
+
+A: SQL is declarative compared to other programming languages, which are procedural. 
+
+4. In your own words, explain how the pieces of a database system fit together at a high level.
+
+A: Databases display data using a table structure. With the use of SQL (a declarative language), you can get results from data, update data, and create new structures to store data. Written queries tell the database what you are looking for and the database engine finds the most efficient way to return the data you've requested. 
+
+5. Explain the meaning of table, row, column, and value.
+
+A: The columns define what the data represent, the rows make up a complete conceptual unit, value is the information within each cell. All of these make up a table. 
+
+6. List three data types that can be used in a table.
+
+A: String, integer, and float. 
+
+7. Given this payments table, provide an English description of the following queries and include their results:
+
+A: The first query is looking for the date and amount from all payments. The second query is looking for the amount from all payments that have an amount that is greater than 500. The third query is looking for payments info from 'Mega Foods'.
+
+8. Given this users table, write SQL queries using the following criteria and include the output:
+
+A: The link for the users table is not working. I've tried on chrome and safari :( If I can get a workable link, I can submit the rest of the checkpoint! :) 
